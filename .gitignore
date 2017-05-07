@@ -1,0 +1,5 @@
+.DS_Store
+#we would want to ignore all files ending in a tilde, all temporary Vim files to be ignored by Git
+*~ 
+#We can also ignore vim directories
+temp/
